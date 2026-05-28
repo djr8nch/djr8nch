@@ -25,7 +25,6 @@
 | [`book-nook`](https://github.com/djr8nch/f25-book-club-team-1)         | full-stack social reading platform with messaging, reviews, and book tracking                                          |
 | [`f1-visualizer`](https://github.com/djr8nch/f1-visualizer)            | formula 1 analytics + visualization platform built for fans and data nerds                                             |
 | [`fitness-application`](https://github.com/djr8nch/FitnessApplication) | gamified fitness application implementing features such as battle-pass progression, achievements, and workout tracking |
-| ['another'](https:/)|
 
 
 ## <span style="color:#C6E2E9">skills</span>
