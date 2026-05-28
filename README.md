@@ -8,7 +8,6 @@
 
 </div>
 
----
 
 ## <span style="color:#DAB894">about me</span> 
 
@@ -18,7 +17,6 @@
 ☁️ &nbsp; building projects with spring boot, next.js, docker, and cloud tools  
 📚 &nbsp; always learning, building, and improving
 
----
 
 ## <span style="color:#F1FFC4">featured projects</span>
 
@@ -28,7 +26,6 @@
 | [`f1-visualizer`](https://github.com/djr8nch/f1-visualizer)            | formula 1 analytics + visualization platform built for fans and data nerds                                             |
 | [`fitness-application`](https://github.com/djr8nch/FitnessApplication) | gamified fitness application implementing features such as battle-pass progression, achievements, and workout tracking |
 
----
 
 ## <span style="color:#C6E2E9">skills</span>
 
@@ -62,7 +59,6 @@
 
 </div>
 
----
 
 ## <span style="color:#FFCAAF">currently</span>
 
@@ -70,14 +66,12 @@
 - learning more about scalable systems + cloud deployment
 - making projects that combine creativity and engineering
 
----
 
 ## <span style="color:#A7BED3">connect with me</span>
 
 📫 &nbsp; open to internships, collaborations, and cool projects  
 🌐 &nbsp; github: [@djr8nch](https://github.com/djr8nch)
 
----
 
 <div align="center">
 
