@@ -2,7 +2,7 @@
 
 # hi, i'm rylan 👋
 
-### solving problems, code is my tool.
+### solving problems, code is just the medium.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=A7BED3&center=true&vCenter=true&width=500&lines=computer+science+student;full-stack+developer;building+cool+things+with+code;always+learning+something+new" />
 
